@@ -73,7 +73,7 @@ def get_stats(values: str):
     mean = total / count
 
     return {
-        "email": 22f1000951@ds.study.iitm.ac.in,
+        "email": "22f1000951@ds.study.iitm.ac.in",
         "count": count,
         "sum": total,
         "min": minimum,
